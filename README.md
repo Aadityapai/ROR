@@ -1,6 +1,8 @@
 # ROR
 This contains all the resources for RoR
 
+books are also uploaded
+
 go through the links
 
 http://rvm.io/rvm/install
