@@ -3,7 +3,7 @@ This contains all the resources for RoR
 
 books are also uploaded
 
-go through the links
+go through the links for ROR
 
 http://rvm.io/rvm/install
 
@@ -15,7 +15,7 @@ https://try.ruby-lang.org/
 
 https://longliveruby.com/articles/rails-request-cycle
 
-git resoureces
+git resources
 
 https://www.atlassian.com/git/tutorials
 
