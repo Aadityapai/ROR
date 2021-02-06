@@ -23,7 +23,7 @@ https://github.blog/2020-12-15-token-authentication-requirements-for-git-operati
 
 https://docs.google.com/presentation/d/1u85aNAy30-YJnoiGArd9tY-hWNH8BTlAVEo0ADJTX7Y/edit#slide=id.p
 
-linuc resources
+linux resources
 
 https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
