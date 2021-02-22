@@ -1,6 +1,5 @@
 # ROR
 This contains all the resources for RoR
-
 books are also uploaded
 
 go through the links for ROR
