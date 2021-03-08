@@ -18,6 +18,14 @@ https://longliveruby.com/articles/rails-request-cycle
 
 git resources
 
+https://www.youtube.com/watch?v=sRrQLCV6urQ
+
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+
+https://guides.github.com/introduction/flow/
+
+https://www.pluralsight.com/blog/software-development/the-definitive-guide-to-forks-and-branches-in-git
+
 https://www.atlassian.com/git/tutorials
 
 https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
