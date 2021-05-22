@@ -4,7 +4,7 @@ books are also uploaded
 
 go through the links for ROR
 
-https://www.freecodecamp.org/news/model-view-architecture/
+[freecodecamp MVC explained](https://www.freecodecamp.org/news/model-view-architecture/)
 
 http://rvm.io/rvm/install
 
