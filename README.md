@@ -6,15 +6,15 @@ go through the links for ROR
 
 [freecodecamp MVC explained](https://www.freecodecamp.org/news/model-view-architecture/)
 
-http://rvm.io/rvm/install
+[install rvm](http://rvm.io/rvm/install)
 
-https://learnrubythehardway.org/book/
+[learn ruby](https://learnrubythehardway.org/book/)
 
-https://guides.rubyonrails.org/getting_started.html
+[learn rails](https://guides.rubyonrails.org/getting_started.html)
 
-https://try.ruby-lang.org/
+[Try ruby](https://try.ruby-lang.org/)
 
-https://longliveruby.com/articles/rails-request-cycle
+[Rails request cycle](https://longliveruby.com/articles/rails-request-cycle)
 
 git resources
 
