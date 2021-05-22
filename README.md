@@ -18,24 +18,24 @@ go through the links for ROR
 
 git resources
 
-https://www.youtube.com/watch?v=sRrQLCV6urQ
+[Youtube ACM github basics](https://www.youtube.com/watch?v=sRrQLCV6urQ)
 
-https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+[freecodecamp github basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
-https://guides.github.com/introduction/flow/
+[github flow guide](https://guides.github.com/introduction/flow/)
 
-https://www.pluralsight.com/blog/software-development/the-definitive-guide-to-forks-and-branches-in-git
+[fowking and branching](https://www.pluralsight.com/blog/software-development/the-definitive-guide-to-forks-and-branches-in-git)
 
-https://www.atlassian.com/git/tutorials
+[Atlassian git tutorial](https://www.atlassian.com/git/tutorials)
 
-https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+[token](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 
-https://docs.google.com/presentation/d/1u85aNAy30-YJnoiGArd9tY-hWNH8BTlAVEo0ADJTX7Y/edit#slide=id.p
+[github Nitk bootcamp](https://docs.google.com/presentation/d/1u85aNAy30-YJnoiGArd9tY-hWNH8BTlAVEo0ADJTX7Y/edit#slide=id.p)
 
 linux resources
 
-https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+[ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
-https://www.tutorialspoint.com/unix/index.htm
+[Linux tutorial](https://www.tutorialspoint.com/unix/index.htm)
 
-https://dev.to/abregman/collection-of-linux-resources-3nhk
+[collection os linux resources](https://dev.to/abregman/collection-of-linux-resources-3nhk)
